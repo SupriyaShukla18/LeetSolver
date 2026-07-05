@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
