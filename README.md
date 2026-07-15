@@ -33,16 +33,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0041-first-missing-positive) |
 | [0704-binary-search](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0029-divide-two-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SupriyaShukla18/LeetSolver/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
